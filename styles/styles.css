@@ -14,3 +14,37 @@
 body{
   background-color: lightblue;
 }
+
+#page-wrapper {
+  background-color: white;
+  width: 786px;
+  margin: auto;
+}
+
+#content {
+  background-color: #f7f2da;
+  margin-left: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+
+}
+
+nav {
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  padding: 3px, 10px;
+}
+
+ul {
+  list-style-type: none;
+}
